@@ -3,10 +3,10 @@
 Bienvenue sur mon profil GitHub ! Je suis un étudiant passionné par la technologie et le développement, en début de ma 2ème année d'études. Voici un peu plus d'informations sur moi :
 👨‍💻 À propos de moi
 
-    🎓 Étudiant en : 2 ème année à EPITECH Bordeaux
+    🎓 Étudiant en : 2ème année à EPITECH Bordeaux
     🌱 J'apprends actuellement : Python
     📫 Comment me contacter : florian.labadie@epitech.eu
-    💡 Fun fact : J'ai fait une reconversion et je possède un BTS Analyse de Biologie Médicale
+    💡 Mon parcours : J'ai fait une reconversion dans l'informatique après avoir obtenue mon BTS Analyse de Biologie Médicale
 
 🛠️ Technologies & Outils
 
@@ -15,4 +15,5 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant passionné par la technol
 
 🌟 Projets
 
-    Je vous invite à consulter les quelques projet réaliser lors de ma 1ère annnée
+    Je vous invite à consulter les quelques projet réaliser lors de ma 1ère annnée ainsi que certains de mes projets personnels.
+    
