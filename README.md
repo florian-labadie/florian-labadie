@@ -1,16 +1,16 @@
 👋 Salut, je m'appel Florian Labadie
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant passionné par la technologie et le développement, en début de ma 2ème année d'études. Voici un peu plus d'informations sur moi :
+Bienvenue sur mon profil GitHub ! Je suis un étudiant passionné par la technologie et le développement, en début de ma 3ème année d'études. Voici un peu plus d'informations sur moi :
 👨‍💻 À propos de moi
 
-    🎓 Étudiant en : 2ème année à EPITECH Bordeaux
+    🎓 Étudiant en : 3ème année à EPITECH Bordeaux
     🌱 J'apprends actuellement : Python
     📫 Comment me contacter : florian.labadie@epitech.eu
     💡 Mon parcours : J'ai fait une reconversion dans l'informatique après avoir obtenue mon BTS Analyse de Biologie Médicale
 
 🛠️ Technologies & Outils
 
-    Langages : Je maitrise actuellement le C et j'ai des bases en python
+    Langages : Je maitrise actuellement le C, C++ et j'ai des bases en python ainsi qu'en web
     Outils : J'utilise GitHub et VisualStudioCode
 
 🌟 Projets
